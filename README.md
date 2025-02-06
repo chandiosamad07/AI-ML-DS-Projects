@@ -11,7 +11,7 @@ Tech Stack: Python, Pandas, NumPy, Matplotlib, Scikit-learn, Gradio
 
 Features: Data preprocessing, correlation analysis, visualization, model evaluation
 
-#House Price Prediction (Karachi Dataset)
+# House Price Prediction (Karachi Dataset)
 
 Description: Predicts house prices based on Karachi real estate data using Linear Regression.
 
