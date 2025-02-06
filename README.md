@@ -6,5 +6,7 @@ This repository contains various projects related to Artificial Intelligence (AI
 # Car Price Prediction
 
 Description: Predicts the price of used cars using Linear Regression.
+
 Tech Stack: Python, Pandas, NumPy, Matplotlib, Scikit-learn
+
 Features: Data preprocessing, correlation analysis, visualization, model evaluation
