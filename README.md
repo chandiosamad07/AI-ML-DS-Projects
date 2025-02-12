@@ -18,3 +18,14 @@ Description: Predicts house prices based on Karachi real estate data using Linea
 Tech Stack: Python, Pandas, Matplotlib,Scikit-learn
 
 Features: Data cleaning, feature engineering, regression modeling, interactive UI with Gradio
+
+# Cat vs Dog Classification 
+
+Description: This project classifies images of cats and dogs using a deep learning model. It utilizes a Convolutional Neural Network (CNN) to achieve accurate classification between the two categories.
+
+Tech Stack: Python TensorFlow/Keras Pandas Matplotlib OpenCV (Optional for image preprocessing)
+
+Features: Data preprocessing (resizing, normalization, augmentation), CNN model implementation Model training and evaluation, Visualization of training performance (loss & accuracy plots)
+and Prediction on new images
+
+dataset url : https://www.kaggle.com/datasets/salader/dogs-vs-cats?resource=download
